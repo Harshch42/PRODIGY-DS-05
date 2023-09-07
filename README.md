@@ -15,3 +15,6 @@ This dataset was collected in real-time using multiple Traffic APIs. It contains
 
 ## Inspiration
 The US-Accidents dataset can be used for numerous applications, such as real-time car accident prediction, studying car accident hotspot locations, casualty analysis, extracting cause and effect rules to predict car accidents, and studying the impact of precipitation or other environmental stimuli on accident occurrence. The most recent release of the dataset can also be useful for studying the impact of COVID-19 on traffic behavior and accidents.
+
+
+Data :- https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
